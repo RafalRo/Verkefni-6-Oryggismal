@@ -1,1 +1,7 @@
-
+lick the More options button. Notice there is an option to enter the recovery key. If the password is 
+forgotten, the saved or printed recovery key from the previous step can be used to unlock the drive.
+Question:
+Why is it important to save a BitLocker recovery key?
+  Svo þú getur komast í ef þú gelymir Lykil orð eða Hard driver er skemmtur.
+What is the function of a TPM in relation to BitLocker?
+  TPM er að skoða hvort Hardrive war ekki tekkin út eða User var ekki að fykkta í bios. Tpm er all blokka hardrive ef finnur að eitthvar var að fykkta æinni honum.
